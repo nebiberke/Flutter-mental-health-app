@@ -3,7 +3,10 @@
 ## Screenshots
 
 ### Home Page
-<img src="assets/screenshot/home-page.png" />
+<img src="assets/screenshot/screen1.png" />
+
+### Draggable Sheet
+<img src="assets/screenshot/screen2.png" />
 
 ## Source
 
