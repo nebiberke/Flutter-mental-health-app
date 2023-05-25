@@ -14,4 +14,4 @@
 [Youtube](https://youtu.be/eegl7of4g-o)
 
 ### Designer
-[Designer](https://dribbble.com/shots/15002657-Mental-Health-App)
+[Dribble](https://dribbble.com/shots/15002657-Mental-Health-App)
