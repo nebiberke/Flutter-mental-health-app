@@ -6,7 +6,7 @@
 <img src="assets/screenshots/screen1.png" />
 
 ### Draggable Sheet
-<img src="assets/screenshots/screen2.jpg" />
+<img src="assets/screenshots/screen2.png" />
 
 ## Source
 
